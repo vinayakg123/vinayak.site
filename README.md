@@ -1,4 +1,13 @@
 # Vinayak Portfolio 
 
 
-Hey! Welcome to my portfolio....It is my first HTML and CSS class with Tanay Pratap in Youtube ...!!
+Hey! Welcome to my portfolio.
+
+Am learning Git and Github concepts  in Youtube.
+
+For Now,, I know :
+
+1. Javascript
+1. NodeJs
+1. Repl.it
+1. CHALK
